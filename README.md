@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (intro-section-dropdown-nav.vercel.app)
+- Live Site URL: (https://intro-section-dropdown-nav.vercel.app/)
 
 ## My process
 
